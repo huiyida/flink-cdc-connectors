@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: 📖 Documentation
+    url: https://ververica.github.io/flink-cdc-connectors/master/
+    about: Check the official documentation for CDC Connectors for Apache Flink®
   - name: Ask a question or get support
     url: https://github.com/ververica/flink-cdc-connectors/discussions/categories/q-a
     about: Ask a question or request support for CDC Connectors for Apache Flink®

@@ -18,7 +18,7 @@ body:
   - type: textarea
     attributes:
       label: Motivation
-      description: Describe the motivations for this feature, like how it fixes the problem you meet.
+      description: Describe the motivations for this feature, like how it fixes the problem you are experiencing.
     validations:
       required: true
   - type: textarea
